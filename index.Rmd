@@ -12,4 +12,4 @@ description: "This is a minimal example of using the bookdown package to write a
 
 # Prerequisites
 
-THIS IS MY THING
+Currently, there is much research about how snow affects traffic speeds, as well as safety. The common driver would think that traffic is slower during snow storms, due to conditions. These conditions lead to more accidents as well. Yet, to what extent does snow affect traffic speeds and safety? What about here in Utah? Much of the available research is performed in other areas of the country. Each area of the country has different maintenance styles in the winter, as well as different severity of storms. My term project will analyze the effects that snow and its different severity has on traffic and vehicle safety here in Utah.
